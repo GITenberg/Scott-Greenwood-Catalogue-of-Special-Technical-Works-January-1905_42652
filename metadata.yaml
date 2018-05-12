@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '45785'
     url: http://www.gutenberg.org/2009/agents/45785
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42652#Scott-Greenwood-Catalogue-of-Special-Technical-Works-January-1905
 gutenberg_issued: '2013-05-06'
 gutenberg_type: Text
 identifiers:
